@@ -1,0 +1,10 @@
+- Download Selenium Server : https://github.com/SeleniumHQ/selenium/releases/download/selenium-4.16.0/selenium-server-4.16.1.jar
+- create config files
+- Start Selenium Hub
+- java -jar selenium-server-standalone-4.16.0.jar hub --config hubConfig.json
+- http://localhost:4444/
+- create config files for node
+- start node
+- java -jar selenium-server.jar node --config nodeConfig.json
+- modify script
+- create file testng with paralel

@@ -1,0 +1,1 @@
+java -jar selenium-server-4.16.1.jar hub --config hubConfig.json
